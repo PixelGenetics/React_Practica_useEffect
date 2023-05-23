@@ -21,7 +21,6 @@ function App() {
   return (
     <>
     {
-      
       <Carga_error />
     }
   <img src={imagen} alt="" />
